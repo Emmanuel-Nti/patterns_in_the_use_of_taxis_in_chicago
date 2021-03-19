@@ -31,7 +31,7 @@ A database with info on taxi rides in Chicago:
 - `dropoff_location_id:` dropoff neighborhood code
 
 ### Weather records table: data on weather
--`record_id:` weather record code
+- `record_id:` weather record code
 - `ts:` record date and time (time rounded to the hour)
 - `temperature:` temperature when the record was taken
-- `description:` brief description of weather conditions, e.g. "light rain" or "scattered clouds" (An SQL CASE was created to categorize desciption into `Good`and `Bad`)
+- `description:` brief description of weather conditions, e.g. "light rain" or "scattered clouds" (an SQL CASE was created to categorize desciption into `Good`and `Bad`)
