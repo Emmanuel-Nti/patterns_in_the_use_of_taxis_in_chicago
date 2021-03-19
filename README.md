@@ -1,4 +1,4 @@
-# Patterns in the useo of Taxis in Chicago
+# Patterns in the use of Taxis in Chicago
 
 
 
